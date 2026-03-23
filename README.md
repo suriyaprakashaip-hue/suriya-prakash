@@ -10,13 +10,13 @@ I am passionate about building intelligent systems using Machine Learning, Deep 
 
 ### 🤖 RAG-Based AI Chatbot
 An intelligent chatbot using Retrieval-Augmented Generation (RAG) to provide context-aware responses.
-🔗 https://github.com/your-username/rag-based-ai-chatbot
+🔗 https://github.com/suriyaprakashaip-hue/llm-rag-chatbot-system
 
 ---
 
 ### 🧠 Deep Learning Image Classifier
 A CNN-based image classification model trained to identify and categorize images.
-🔗 https://github.com/your-username/deep-learning-image-classifier
+🔗 
 
 ---
 
