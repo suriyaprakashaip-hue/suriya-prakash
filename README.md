@@ -16,13 +16,13 @@ An intelligent chatbot using Retrieval-Augmented Generation (RAG) to provide con
 
 ### 🧠 Deep Learning Image Classifier
 A CNN-based image classification model trained to identify and categorize images.
-🔗 
+🔗 https://github.com/suriyaprakashaip-hue/deep-learning-image-classifier
 
 ---
 
 ### 📊 Python EDA Analysis
 Performed exploratory data analysis to uncover patterns and insights using visualization techniques.
-🔗 https://github.com/your-username/python-eda-analysis
+🔗 https://github.com/suriyaprakashaip-hue/python-eda-data-analysis
 
 ---
 
@@ -36,5 +36,5 @@ Performed exploratory data analysis to uncover patterns and insights using visua
 ---
 
 ## 📫 Contact
-- Email: your-email@example.com
-- LinkedIn: your-linkedin-link# suriya-prakash
+- Email: suriyaprakash.ai.p@gmail.com
+- LinkedIn: linkedin.com/in/suriya-prakash-314913397
